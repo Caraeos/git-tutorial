@@ -2,6 +2,6 @@
 
 int main()
 {
-    put("Hello world!");
+    put("Hello form git-managed world!");
     return 0;
 }
